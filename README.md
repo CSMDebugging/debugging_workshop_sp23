@@ -1,1 +1,1 @@
-# debugging_workshop_sp23
+# CSM 61B Debugging Workshop Spring 2023
